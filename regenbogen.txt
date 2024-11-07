@@ -2,4 +2,5 @@ Die Farben des Regenbogens:
 -rot
 -blau
 -gelb
+-grün
 
